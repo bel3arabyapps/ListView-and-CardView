@@ -17,8 +17,8 @@ dependencies {
 	android:divider="@android:color/transparent" />
 ```
 3. Add your `CardView` layout to the resources.   
-  1. Set the `clipToPadding` to false.   
-  2. Set the vertical padding, otherwise the card elevation does not appear with API-24.   
+  1- Set the `clipToPadding` to false.   
+  2- Set the vertical padding, otherwise the card elevation does not appear with API-24.   
  ```
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     ...
